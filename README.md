@@ -10,7 +10,5 @@ This brought up the need for a simple program that can be used to respond to API
 To do this, a Python program will be written that exposes an API using [Connexion](https://github.com/spec-first/connexion?tab=readme-ov-file) , that performs and returns the result of a calculation.
 
 ## Features
-
-
-- [X]
+- [x]
 - [ ]
