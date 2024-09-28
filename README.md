@@ -1,5 +1,5 @@
 # Simple Kubernetes Scaling API 
-*A simple flask app to test a Kubernets autoscaling*
+*A simple flask app to test a Kubernetes autoscaling*
 
 This is a simple program that I am making as part of my University project, which is to work with Kubernetes to understand how it can be used for scaling services. 
 
